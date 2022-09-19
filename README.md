@@ -1,3 +1,5 @@
+Practica 1: Sistemas Expertos
+
 1.	El usuario deberá pensar en un personaje animado
 2.	El programa realizara preguntas que se deberán responder preguntas cerradas con un “si” obligatoriamente si la respuesta es positiva.
 3.	En caso de no haber adivinado el programa te pedirá retroalimentación para extender el árbol binario.
